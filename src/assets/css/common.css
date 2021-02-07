@@ -1,0 +1,22 @@
+
+/* customize css */
+h1{
+    font-size: 28px;
+    font-weight: 700;
+}
+
+
+
+#wrap{
+    width: 1000px;
+    margin: 0 auto;
+  }
+  
+.content{
+    padding: 2rem;
+    margin-bottom: 1rem;
+    border: 1px solid #dbdbdb;
+}
+.content h1{
+    margin-bottom: 10px;
+}

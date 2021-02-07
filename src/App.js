@@ -1,6 +1,7 @@
 
-import './App.css';
-import UserApp from './AppGroup/userApp';
+
+import UserApp from './AppGroup/userApp'
+import './assets/css/common.css'
 
 function App() {
   return (
