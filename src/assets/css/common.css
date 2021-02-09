@@ -20,3 +20,15 @@ h1{
 .content h1{
     margin-bottom: 10px;
 }
+
+
+#paginatApp .list-body .list-item{
+    line-height: 2rem;
+}
+#paginatApp .list-body .list-item:hover{
+    background-color: antiquewhite;
+}
+
+#paginatApp .list-body .list-item span{
+    padding-right: 10px;
+}
